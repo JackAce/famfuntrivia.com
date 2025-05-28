@@ -107,7 +107,7 @@ collections:
 
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-VGY0FWWP6W" # this doesn't work anymore?
     #anonymize_ip: false # default
