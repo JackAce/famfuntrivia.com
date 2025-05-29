@@ -7,14 +7,27 @@ header:
   teaser: "/assets/images/posts/2025-05-26-hello-world/00-title-600x338.png"
 ---
 
-I love trivia and I really wanted to develop a fun trivia
-podcast that the entire family could enjoy!
+We Finally Launched FamFunTrivia.com! (It only took forever...)
+
+Well, well, well… look who finally got around to launching their website! That’s right—FamFunTrivia.com is officially live! It only took slightly less time than it takes to get a toddler to eat a green bean. 😅
 
 <img src="/assets/images/posts/2025-05-26-hello-world/00-title-600x338.png">
 
-I'm planning to release 4 episodes shortly! Each episode
-will have 5 rounds (categories) with 5 or 6 questions per
-category!
+This site is your one-stop-shop for all things Family Fun Trivia: our family-friendly podcast, our laugh-out-loud YouTube channel, and (eventually) even some cool printable trivia games for when screen time needs a break.
 
-I'm hosting the show with my 7-year old daughter, Kayla!
-She is the sweetest girl in the world! ❤️
+If you’re new here, welcome! We make trivia that's safe, silly, and actually fun for the whole family. Think: brain-boosting questions, groan-worthy dad jokes, and zero chance of hearing anything you'd have to explain to your 8-year-old later. (“No sweetie, that word isn’t in your dictionary.”)
+
+Oh, and speaking of dad jokes…
+
+    Q: Why did the trivia team bring a ladder?
+    A: Because they were going to high-level questions.
+
+You're welcome.
+
+We’re also growing like a middle schooler after a summer growth spurt, so now’s a great time to jump in and say you were here before it was cool. Subscribe to our YouTube channel for new episodes, bonus content, and surprise guests (spoiler: mostly us). And if you're feeling extra generous, Patreon is where you can help support the show and score some exclusive goodies.
+
+The best is yet to come. So buckle up, trivia fans—it’s going to be a fun ride (seatbelt optional if you're sitting on the couch).
+
+🎉 Thanks for being part of the fam!
+
+—The Family Fun Trivia Crew 👨‍👩‍👧‍👧
