@@ -43,27 +43,36 @@ author:
     - label: "links.famfuntrivia.com"
       icon: "fas fa-fw fa-link"
       url: "https://links.famfuntrivia.com/"
-    - label: "JackAce"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JackAce"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JackAce"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://tiktok.com/@jackace.com"
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://patreon.com/FamilyFunTrivia"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JackAce"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/jackace.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JackAce"
-    - label: "Instagram"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JackAce"
+
+footer:
+  links:
+    - label: ""
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/jackace.com"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jackacedotcom"
+    - label: ""
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JackAce"
+    - label: ""
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JackAce"
 
 # comments:
 #   provider: "disqus"
@@ -105,12 +114,13 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-VGY0FWWP6W" # this doesn't work anymore?
     #anonymize_ip: false # default
+
+cookie_consent_script: "e8fb38e189a1451b64d10d3df700ce06"
 
 # fixes "No GitHub API authentication" error
 github: [metadata]

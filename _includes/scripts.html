@@ -1,3 +1,7 @@
+{% if jekyll.environment == "production" and site.cookie_consent_script %}
+  <script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/{{ site.cookie_consent_script }}.js"></script>
+{% endif %}
+
 {% if site.footer_scripts %}
   {% for script in site.footer_scripts %}
     {% if script contains "://" %}
