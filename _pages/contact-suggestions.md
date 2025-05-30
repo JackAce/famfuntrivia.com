@@ -14,6 +14,7 @@ header:
 Welcome to the official Family Fun Trivia suggestion page! This is where YOU get to help shape the show. Whether you’ve got a wild trivia fact, a silly joke, a birthday shoutout, or just want to hear your name on the air—we want to know!
 
 Click here to jump straight to the form:
+
 [👉 Submit Your Idea!](https://forms.gle/1dPcA6FGpZNmZf9N6)
 
 The form is short and sweet, just like our host before coffee. Here’s what it includes:
