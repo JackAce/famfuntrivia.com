@@ -1,8 +1,8 @@
 main:
   - title: Blog
     url: /posts-grid/
-  # - title: Tags
-  #   url: /tags/
+  - title: Contact
+    url: /contact/suggestions
   - title: About
     url: /about/
   
