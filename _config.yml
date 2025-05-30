@@ -8,7 +8,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: air
-permalink: /:categories/:title/
+permalink: /blog/:year/:month/:day/:title/
 paginate: 3
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
