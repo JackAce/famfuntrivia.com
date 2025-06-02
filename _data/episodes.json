@@ -1,0 +1,69 @@
+[
+  {
+    "season": 1,
+    "episode": 1,
+    "name": "America, Animals, Famous People, Fruits, Disney",
+    "title": "🦅 America, 🐨 Animals, 👩‍🚀 Famous People, 🍍 Fruits, 🐭 Disney",
+    "youTubeUrl": "https://www.youtube.com/watch?v=xFxttk6fzYc",
+    "categories":
+    [
+      {
+        "name": "America",
+        "emojis": "🦅",
+        "questions":
+        [
+          {
+            "question": "In what state will you find the Statue of Liberty?",
+            "answer": "New York",
+            "question-time": "0:37",
+            "answer-time": "2:08",
+          },
+          {
+            "question": "In what famous Arizona canyon can you find Pink Rattlesnakes?",
+            "answer": "The Grand Canyon",
+            "question-time": "0:54",
+            "answer-time": "2:46",
+          },
+          {
+            "question": "What city is known most as the gambling capital of the US?",
+            "answer": "Las Vegas",
+            "question-time": "1:07",
+            "answer-time": "3:53",
+          },
+          {
+            "question": "In what two states will you find Disneyland and Disney World?",
+            "answer": "California and Florida",
+            "question-time": "1:22",
+            "answer-time": "4:35",
+          },
+          {
+            "question": "The Wright Brothers first flew a plane in what state?",
+            "answer": "(Kitty Hawk) North Carolina",
+            "question-time": "1:37",
+            "answer-time": "5:44",
+          },
+          {
+            "question": "What windy US city is known for its Deep Dish Pizzas?",
+            "answer": "Chicago",
+            "question-time": "1:47",
+            "answer-time": "5:32",
+          }
+        ]
+      },
+      {
+        "name": "Animals",
+        "emojis": "🐨",
+        "questions":
+        [
+          {
+            "question": "In what state will you find the Statue of Liberty?",
+            "answer": "New York",
+            "question-time": "0:37",
+            "answer-time": "2:08",
+         }
+        ]
+      }
+    ],
+    "notes": ""
+  }
+]

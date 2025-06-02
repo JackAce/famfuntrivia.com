@@ -11,7 +11,7 @@ We Finally Launched FamFunTrivia.com! (It only took forever...)
 
 Well, well, well… look who finally got around to launching their website! That’s right—FamFunTrivia.com is officially live! It only took slightly less time than it takes to get a toddler to eat a green bean. 😅
 
-<img src="/assets/images/posts/2025-05-26-hello-world/00-title-600x338.png">
+![](/assets/images/posts/2025-05-26-hello-world/00-title-600x338.png)
 
 This site is your one-stop-shop for all things Family Fun Trivia: our family-friendly podcast, our laugh-out-loud YouTube channel, and (eventually) even some cool printable trivia games for when screen time needs a break.
 

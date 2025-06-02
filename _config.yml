@@ -1,4 +1,6 @@
 title: Family Fun Trivia
+copyright: JackAce Studios, LLC
+copyright_url: https://www.jackace.com
 email: info@famfuntrivia.com
 description: The kid-friendly podcast perfect for family road trips!
 twitter_username: JackAce
@@ -49,6 +51,9 @@ author:
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://patreon.com/FamilyFunTrivia"
+    - label: "The JackAce Store"
+      icon: "fa-solid fa-basket-shopping"
+      url: "https://shop.jackace.com/"
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jackace.com"

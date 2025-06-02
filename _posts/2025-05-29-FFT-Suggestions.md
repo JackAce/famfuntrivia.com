@@ -9,7 +9,7 @@ header:
 
 ## 🚀 Suggest a Trivia Question (or Three)!
 
-<img src="/assets/images/posts/2025-05-29-suggestions/00-title-600x600.png">
+![](/assets/images/posts/2025-05-29-suggestions/00-title-600x600.png)
 
 Big news from the Family Fun Trivia HQ: we're officially opening the floor to your brilliant, hilarious, and maybe slightly sneaky trivia question ideas! 🧠✨
 
