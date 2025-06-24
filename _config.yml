@@ -34,11 +34,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/images/brand/fft-logo-v2-1024x1024.png"
+logo: "/assets/images/brand/fft-logo-v3-64x64.jpg"
 
 author:
   name   : "Jack Haze"
-  avatar: /assets/images/brand/jack-avatar-v2-1024x1024.png
+  avatar: /assets/images/brand/jack-avatar-v2-128x128.jpg
   bio    : "Software Engineer"
   location : "Southern California"
   links:
@@ -60,7 +60,7 @@ author:
       url: "https://shop.jackace.com/collections/kid-friendly"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JackAce"
+      url: "https://github.com/JackAce/famfuntrivia.com"
 
 footer:
   links:
@@ -72,7 +72,7 @@ footer:
       url: "https://open.spotify.com/show/0VhK8a53LuYi2h9er9E48r?si=ZP4PLZojScy7LViYuSBFJg"
     - label: ""
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JackAce"
+      url: "https://github.com/JackAce/famfuntrivia.com"
 
 # comments:
 #   provider: "disqus"
