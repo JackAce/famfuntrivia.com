@@ -2,9 +2,11 @@
   {
     "season": 1,
     "episode": 1,
+    "airDate": "2025-07-07",
     "name": "America, Animals, Famous People, Fruits, Disney",
     "title": "🦅 America, 🐨 Animals, 👩‍🚀 Famous People, 🍍 Fruits, 🐭 Disney",
-    "youTubeUrl": "https://www.youtube.com/watch?v=xFxttk6fzYc",
+    "youTubeUrl": "https://www.youtube.com/watch?v=VsV-6ejJ-OY",
+    "spotifyUrl": "https://open.spotify.com/episode/1vrxg4KrtqcI8OYw9J2rbY?si=_gf5bQZxRJazuaYB0TyacQ",
     "categories":
     [
       {
@@ -14,39 +16,27 @@
         [
           {
             "question": "In what state will you find the Statue of Liberty?",
-            "answer": "New York",
-            "question-time": "0:37",
-            "answer-time": "2:08",
+            "answer": "New York"
           },
           {
             "question": "In what famous Arizona canyon can you find Pink Rattlesnakes?",
-            "answer": "The Grand Canyon",
-            "question-time": "0:54",
-            "answer-time": "2:46",
+            "answer": "The Grand Canyon"
           },
           {
             "question": "What city is known most as the gambling capital of the US?",
-            "answer": "Las Vegas",
-            "question-time": "1:07",
-            "answer-time": "3:53",
+            "answer": "Las Vegas"
           },
           {
             "question": "In what two states will you find Disneyland and Disney World?",
-            "answer": "California and Florida",
-            "question-time": "1:22",
-            "answer-time": "4:35",
+            "answer": "California and Florida"
           },
           {
             "question": "The Wright Brothers first flew a plane in what state?",
-            "answer": "(Kitty Hawk) North Carolina",
-            "question-time": "1:37",
-            "answer-time": "5:44",
+            "answer": "(Kitty Hawk) North Carolina"
           },
           {
             "question": "What windy US city is known for its Deep Dish Pizzas?",
-            "answer": "Chicago",
-            "question-time": "1:47",
-            "answer-time": "5:32",
+            "answer": "Chicago"
           }
         ]
       },
@@ -56,11 +46,414 @@
         "questions":
         [
           {
-            "question": "In what state will you find the Statue of Liberty?",
-            "answer": "New York",
-            "question-time": "0:37",
-            "answer-time": "2:08",
-         }
+            "question": "What is the world's largest animal?",
+            "answer": "The Blue Whale"
+          },
+          {
+            "question": "What dog breed is Snoopy?",
+            "answer": "A Beagle"
+          },
+          {
+            "question": "What is the state animal of Oregon?",
+            "answer": "The Beaver"
+          },
+          {
+            "question": "What is the name of the horned whale, also known as the 'Unicorn of the Sea'?",
+            "answer": "The Narwhal"
+          },
+          {
+            "question": "The Humuhumunukunukuapua'a is the state fish for what state?",
+            "answer": "Hawaii"
+          },
+          {
+            "question": "The mascot for the University of Michigan is also the name of what long-clawed X-Man superhero?",
+            "answer": "Wolverine"
+          }
+        ]
+      },
+      {
+        "name": "Famous People",
+        "emojis": "👩‍🚀",
+        "questions":
+        [
+          {
+            "question": "Who was the first US President?",
+            "answer": "George Washington"
+          },
+          {
+            "question": "What holiday do most states celebrate on the second Monday of January?",
+            "answer": "Martin Luther King Jr. Day"
+          },
+          {
+            "question": "Who is the famous Dutch painter who cut off his own ear?",
+            "answer": "Vincent Van Gogh"
+          },
+          {
+            "question": "What Japanese born baseball player signed the biggest baseball contract ever in 2023?",
+            "answer": "Shohei Ohtani"
+          },
+          {
+            "question": "What basketball players starred in Space Jam?",
+            "answer": "Michael Jordan and Lebron James"
+          },
+          {
+            "question": "What famous author, activist, and lecturer was blind and deaf when she was a 19 month old child?",
+            "answer": "Helen Keller"
+          }
+        ]
+      },
+      {
+        "name": "Fruits",
+        "emojis": "🍍",
+        "questions":
+        [
+          {
+            "question": "What fruit known for being grown in Georgia is famous for having 'fuzz'?",
+            "answer": "The Peach"
+          },
+          {
+            "question": "What fruit shares its name with a mythical creature from Shrek?",
+            "answer": "Dragonfruit"
+          },
+          {
+            "question": "What stinky fruit from Asia has a spikey outer covering?",
+            "answer": "The Durian"
+          },
+          {
+            "question": "What kind of fruit is named after your belly button?",
+            "answer": "The Navel Orange"
+          },
+          {
+            "question": "What fruity ice cream flavor is kinda named after the lead singer from The Grateful Dead?",
+            "answer": "Cherry (Jerry) Garcia"
+          },
+          {
+            "question": "The prune is the dried up version of what fruit?",
+            "answer": "The Plum"
+          }
+        ]
+      },
+      {
+        "name": "Disney",
+        "emojis": "🐭",
+        "questions":
+        [
+          {
+            "question": "What is the name of Jasmine's tiger in Aladdin?",
+            "answer": "Rajah"
+          },
+          {
+            "question": "What is the biggest movie of all time in ticket sales?",
+            "answer": "Inside Out 2"
+          },
+          {
+            "question": "Dwayne Johnson voiced what shape-changing Disney character?",
+            "answer": "Maui"
+          },
+          {
+            "question": "What is the name of the boy who owns Woody in Toy Story (I)?",
+            "answer": "Andy"
+          },
+          {
+            "question": "What is the name of Mr. Incredible's ice-cold friend?",
+            "answer": "Frozone"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "season": 1,
+    "episode": 2,
+    "airDate": "2025-07-14",
+    "name": "Musical Films, Europe, Technology, Insects, Dog Man",
+    "title": "🎶🎥 Musical Films, 🇪🇺 Europe, 💻 Technology, 🐝 Insects, 🐶🕺 Dog Man",
+    "youTubeUrl": "https://www.youtube.com/watch?v=AkdAIwcJeVU",
+    "spotifyUrl": "https://open.spotify.com/episode/40kSxrSrtpL67GXPzhJhNj?si=vNP-qUmYRYCsdJWNjb7cUQ",
+    "categories":
+    [
+      {
+        "name": "Musical Films",
+        "emojis": "🎶🎥",
+        "questions":
+        [
+          {
+            "question": "What 1964 musical starring Julie Andrews is about a magical flying nanny?",
+            "answer": "Mary Poppins"
+          },
+          {
+            "question": "What 2022 musical about a schoolgirl with magical powers stars a cast of Revolting Children?",
+            "answer": "Matilda: The Musical"
+          },
+          {
+            "question": "What is the name of the school that Elphaba and Glinda attend in Wicked?",
+            "answer": "Shiz"
+          },
+          {
+            "question": "In the 1971 film Willie Wonka and the Chocolate Factory, what is the full name of the kid that takes over the factory?",
+            "answer": "Charlie Bucket"
+          },
+          {
+            "question": "What sport did Troy playin the 2006 film High School Musical?",
+            "answer": "Basketball"
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "emojis": "🇪🇺",
+        "questions":
+        [
+          {
+            "question": "What boot shaped European country is known for its delicious pasta dishes?",
+            "answer": "Italy"
+          },
+          {
+            "question": "What European nation has the smallest population with fewer than 1000 people?",
+            "answer": "Vatican City"
+          },
+          {
+            "question": "The character Dracula comes from what European country?",
+            "answer": "Romania"
+          },
+          {
+            "question": "What European country and home to Socrates, Plato, and Aristotle is known as the birthplace of Western Philosophy?",
+            "answer": "Greece"
+          },
+          {
+            "question": "What is the name of the primary currency used in the United Kingdom?",
+            "answer": "The Pound (£)"
+          }
+        ]
+      },
+      {
+        "name": "Technology",
+        "emojis": "💻",
+        "questions":
+        [
+          {
+            "question": "What Korean technology company is the world's biggest producer of Android phones?",
+            "answer": "Samsung"
+          },
+          {
+            "question": "What does \"GPS\" stand for regarding navigation technology?",
+            "answer": "Global Positioning System"
+          },
+          {
+            "question": "What short range wireless technology was named for a Scandinavian warrior king?",
+            "answer": "Bluetooth"
+          },
+          {
+            "question": "The use of what technology really took off during COVID when people had to look at restaurant menus on their phones?",
+            "answer": "QR Codes"
+          },
+          {
+            "question": "Large Language Models (LLMs) such as Gemini, DeepSeek, and ChatGPT are platforms for what two-word technology?",
+            "answer": "Artificial Intelligence (AI)"
+          }
+        ]
+      },
+      {
+        "name": "Insects",
+        "emojis": "🐝",
+        "questions":
+        [
+          {
+            "question": "What tiny Marvel superhero played by Paul Rudd is named after an insect?",
+            "answer": "Ant-Man"
+          },
+          {
+            "question": "What is the hexagonal structure that bees create in their beehives?",
+            "answer": "Honeycombs"
+          },
+          {
+            "question": "What is the most famous Mexican song about a Cockroach?",
+            "answer": "La Cucaracha"
+          },
+          {
+            "question": "What chirping insect is known for rubbing its wings together to make music on warm Summer nights?",
+            "answer": "The Cricket"
+          },
+          {
+            "question": "What type of insect is known for destroying wood?",
+            "answer": "The Termite"
+          }
+        ]
+      },
+      {
+        "name": "Dog Man",
+        "emojis": "🐶🕺",
+        "questions":
+        [
+          {
+            "question": "What is Dog Man's job?",
+            "answer": "Police Officer"
+          },
+          {
+            "question": "What is the name of the human part of Dog Man?",
+            "answer": "Officer Knight"
+          },
+          {
+            "question": "Who wrote the Dog Man books?",
+            "answer": "Dav Pilkey"
+          },
+          {
+            "question": "The author of Dog Man also wrote what series of books about a principal in his tighty whiteys?",
+            "answer": "The Adventures of Captain Underpants"
+          },
+          {
+            "question": "The tagline for the 2025 movie Dog Man is 'Part dog...part man...all...' what??",
+            "answer": "All Hero"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "season": 1,
+    "episode": 3,
+    "airDate": "2025-07-21",
+    "name": "Kid Songs, Ice Cream, Video Games, The Body, Bluey",
+    "title": "👧🏻🎶 Kid Songs, 🍦 Ice Cream, 👾 Video Games, 💪 The Body, 💙🐶 Bluey",
+    "youTubeUrl": "https://www.youtube.com/watch?v=DnVFDo-7kgM",
+    "spotifyUrl": "https://open.spotify.com/episode/2g0MiOMc3eooJ6b1kI8whS?si=4nmT1yb2RzmogI3VJ_Rprw",
+    "categories":
+    [
+      {
+        "name": "Kid Songs",
+        "emojis": "🎶🎥",
+        "questions":
+        [
+          {
+            "question": "In the song Hickory Dickory Dock, what animal ran up and down the clock?",
+            "answer": "The Mouse"
+          },
+          {
+            "question": "The American Alphabet Song is sung to the tune of what song about something shiny in the night sky?",
+            "answer": "Twinkle Twinkle Little Star"
+          },
+          {
+            "question": "In the song Baby Shark, how many \"doo's\" to they sing after every type of shark?",
+            "answer": "Six"
+          },
+          {
+            "question": "In the song On Top of Spaghetti, the meatball fell off the table when somebody did...what?",
+            "answer": "When somebody sneezed"
+          },
+          {
+            "question": "What did the doctor tell Mama Monkey when all her babies kept getting hurt falling off the bed?",
+            "answer": "\"No more monkeys jumping on the bed!\""
+          }
+        ]
+      },
+      {
+        "name": "Ice Cream",
+        "emojis": "🍦",
+        "questions":
+        [
+          {
+            "question": "What ice cream store founded in Glendale, CA, in 1945 is famous for always having at least 31 flavors?",
+            "answer": "Baskin-Robbins"
+          },
+          {
+            "question": "What green colored ice cream is popular at Japanese restaurants?",
+            "answer": "Green Tea (Matcha) Ice Cream"
+          },
+          {
+            "question": "What type of ice cream is popular at Mexican Restaurants and has a warm and crunchy outer layer?",
+            "answer": "Deep Fried Ice Cream"
+          },
+          {
+            "question": "What cold Italian treat is made with more milk and less cream than regular ice cream?",
+            "answer": "Gelato"
+          },
+          {
+            "question": "What bumpy ice cream flavor is Sloth's favorite from the 1985 film The Goonies?",
+            "answer": "Rocky Road"
+          }
+        ]
+      },
+      {
+        "name": "Video Games",
+        "emojis": "👾",
+        "questions":
+        [
+          {
+            "question": "What is the name of the big boss in The Legend of Zelda series?",
+            "answer": "Ganon (or Ganondorf)"
+          },
+          {
+            "question": "In Minecraft, what are the green creatures that explode when they get close to you?",
+            "answer": "Creepers"
+          },
+          {
+            "question": "In Animal Crossing, what is the anme of the museum's owl curator?",
+            "answer": "Blathers"
+          },
+          {
+            "question": "Which company originally created Call of Duty?",
+            "answer": "Blizzard | Activision"
+          },
+          {
+            "question": "In the Angry Birds game, what color are the enemy Pigs?",
+            "answer": "Green"
+          }
+        ]
+      },
+      {
+        "name": "The Body",
+        "emojis": "💪",
+        "questions":
+        [
+          {
+            "question": "What organ is the pump that pushes blood through the circulatory system?",
+            "answer": "The Heart"
+          },
+          {
+            "question": "How many bones are in the adult human body?",
+            "answer": "206"
+          },
+          {
+            "question": "Which toe represents the Piggy that went \"Wee Wee Wee\" all the way home?",
+            "answer": "The Pinky Toe"
+          },
+          {
+            "question": "What body part helps you taste food?",
+            "answer": "The Tongue"
+          },
+          {
+            "question": "What is the name of a small, hard, thickened area of the skin on the foot that sounds like it could be a big lump with knobs?",
+            "answer": "A Corn"
+          }
+        ]
+      },
+      {
+        "name": "Bluey",
+        "emojis": "💙🐶",
+        "questions":
+        [
+          {
+            "question": "What is Bingo's favorite stuffed animal?",
+            "answer": "Floppy"
+          },
+          {
+            "question": "What is the name of Bluey's grey colored cousin?",
+            "answer": "Muffin"
+          },
+          {
+            "question": "What color is Bluey's sister, Bingo?",
+            "answer": "Orange"
+          },
+          {
+            "question": "What city and country are home to Bluey's family?",
+            "answer": "Brisbane, Australia"
+          },
+          {
+            "question": "What is the name of Bluey's mother?",
+            "answer": "Chilli"
+          }
         ]
       }
     ],

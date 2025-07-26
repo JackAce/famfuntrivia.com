@@ -13,8 +13,7 @@ header:
 
 We’re officially live, friends! 🎙️ After all the brainstorming, recording, editing, and snack breaks… the Family Fun Trivia podcast has landed with its very first episode!
 
-{% include video id="uPefF0UmUbY" provider="youtube" %}
-
+{% include video id="VsV-6ejJ-OY" provider="youtube" %}
 Episode 1 is packed with five fun categories:
 
 * 🦅 America
@@ -32,7 +31,7 @@ You can listen to Episode 1 right now on:
 
 🎥 And don’t miss the animated version on our [YouTube channel](https://www.youtube.com/@FamFunTrivia?sub_confirmation=1) — it’s colorful, silly, and extra fun to watch!
 
-👉 [Watch it here](https://www.youtube.com/watch?v=uPefF0UmUbY)!
+👉 [Watch it here](https://www.youtube.com/watch?v=VsV-6ejJ-OY)!
 
 If you like what you hear (and laugh even a little), please like, subscribe, follow, or do a little happy dance—whatever your favorite way is to support family-friendly content! 💃🕺
 

@@ -1,0 +1,12 @@
+---
+layout: none
+permalink: /episodes/
+---
+
+{% assign episodes = site.data.episodes %}
+{% for ep in episodes %}
+  {% capture url %}/episodes/{{ ep.season }}/{{ ep.episode }}{% endcapture %}
+  {% capture filename %}_episodes/s{{ ep.season }}e{{ ep.episode }}.md{% endcapture %}
+
+  <!-- You cannot generate files here, but see below for how to do it manually or via script -->
+{% endfor %}

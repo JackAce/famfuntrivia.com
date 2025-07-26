@@ -1,6 +1,8 @@
 main:
   - title: Blog
     url: /posts-grid/
+  - title: Episodes
+    url: /episodes/
   - title: Shop
     url: https://shop.jackace.com/collections/kid-friendly
   - title: Contact

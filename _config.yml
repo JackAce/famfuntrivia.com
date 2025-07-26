@@ -24,7 +24,6 @@ include:
 #   - Gemfile
 #   - Gemfile.lock
   - node_modules
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -77,7 +76,12 @@ footer:
 # comments:
 #   provider: "disqus"
 #   disqus:
-#     shortname: "janmeppeblog"
+#     shortname: "familyfuntrivia"
+
+# collections:
+#   episodes:
+#     output: true
+#     permalink: /episodes/:season/:episode
 
 defaults:
   # _posts
