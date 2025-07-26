@@ -1,0 +1,57 @@
+---
+layout: single
+header:
+  overlay_image: /assets/images/brand/cover-v1-2383x423.png
+  overlay_filter: "0.3"   # optional, adds a dark overlay for text readability
+  caption: "🎙️ Family Fun Trivia: The kid-friendly podcast"
+---
+
+{% assign season = page.season %}
+{% assign episode = page.episode %}
+
+{%- assign episode = site.data.episodes | where: "season", season | where: "episode", episode | first -%}
+
+<div class="episode-details">
+    <h2>
+        s{{ page.season }}e{{ page.episode }}
+        -
+        {{ episode.title }}
+    </h2>
+
+    <table width="100%">
+        <tr>
+            <td>
+                <b>Aired:</b> {{ episode.airDate }}
+            </td>
+            <td width="400">
+                &nbsp;
+            </td>
+            <td style="text-align: right;">
+                <a href="{{- episode.youTubeUrl -}}" target="_blank"><img src="/assets/images/icons/icon-youtube-30x30.png" /></a>
+                <a href="{{- episode.spotifyUrl -}}" target="_blank"><img src="/assets/images/icons/icon-spotify-30x30.png" /></a>
+            </td>
+        </tr>
+    </table>
+
+    {% assign categoryNumber = 1 %}
+    {% for category in episode.categories %}
+        <h3>
+            Category {{ categoryNumber }}: 
+            {{ category.emojis }}&nbsp;&nbsp;{{ category.name }}
+        </h3>
+        {% assign questionNumber = 1 %}
+
+        {% for question in category.questions %}
+            <h4>
+                Q{{ questionNumber }}: 
+                {{ question.question }}
+            </h4>
+            <p>
+                <i>{{ question.answer }}</i>
+            </p>
+            {% assign questionNumber = questionNumber | plus: 1 %}
+        {% endfor %}
+
+        {% assign categoryNumber = categoryNumber | plus: 1 %}
+    {% endfor %}
+</div>

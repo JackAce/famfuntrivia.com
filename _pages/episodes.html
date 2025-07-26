@@ -1,0 +1,51 @@
+---
+layout: single
+title: "Episodes"
+permalink: /episodes/
+header:
+  overlay_image: /assets/images/brand/cover-v1-2383x423.png
+  overlay_filter: "0.3"   # optional, adds a dark overlay for text readability
+  caption: "🎙️ Family Fun Trivia: The kid-friendly podcast"
+---
+
+{% assign episodeList = site.data.episodes | sort: "airDate" | reverse %}
+
+<table class="roulette-system-table" width="90%">
+  <thead>
+    <tr>
+        <th>
+            Episode
+        </th>
+        <th width="125">
+            Air Date
+        </th>
+        <th>
+            Title
+        </th>
+        <th width="125">
+            Links
+        </th>
+    </tr>
+  </thead>
+  <tbody>
+
+    {% for episode in episodeList %}
+
+      <tr>
+          <td class="cell-center">
+            {{ episode["episode"] }}
+          </td>
+          <td class="cell-center">
+            <a href='/episodes/{{- episode["season"] -}}/{{- episode["episode"] -}}' >{{- episode["airDate"] -}}</a>
+          </td>
+          <td class="cell-center">
+            {{ episode["title"] }}
+          </td>
+          <td class="cell-center">
+            <a href='{{- episode["youTubeUrl"] -}}' target="_blank" ><img src="/assets/images/icons/icon-youtube-30x30.png" /></a>
+            <a href='{{- episode["spotifyUrl"] -}}' target="_blank" ><img src="/assets/images/icons/icon-spotify-30x30.png" /></a>
+          </td>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
