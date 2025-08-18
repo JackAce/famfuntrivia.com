@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/brand/cover-v1-2383x423.png
   overlay_filter: "0.3"   # optional, adds a dark overlay for text readability
   caption: "🎙️ Family Fun Trivia: The kid-friendly podcast"
+# This page is also /home/
 ---
 
 Welcome to *Family Fun Trivia* — the kid-friendly podcast and YouTube channel that turns car rides, rainy days, and snack breaks into laugh-out-loud learning sessions!
