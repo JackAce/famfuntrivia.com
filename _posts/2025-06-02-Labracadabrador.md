@@ -9,7 +9,7 @@ header:
 
 ## 🐾 What Kind of Dog Does a Magician Have?
 
-![](/assets/images/posts/2025-06-02-fft-store/00-title-600x600.png)
+![]({{ page.header.teaser }})
 
 🐾 What Kind of Dog Does a Magician Have?
 

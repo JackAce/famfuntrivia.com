@@ -4,14 +4,14 @@ date:   2025-05-26 00:00:01 -0700
 categories: [meta]
 tags: [youtube, podcast, spotify]
 header:
-  teaser: "/assets/images/posts/2025-05-26-hello-world/00-title-600x338.png"
+  teaser: /assets/images/posts/2025-05-26-hello-world/00-title-600x338.png
 ---
 
 We Finally Launched FamFunTrivia.com! (It only took forever...)
 
 Well, well, well… look who finally got around to launching their website! That’s right—FamFunTrivia.com is officially live! It only took slightly less time than it takes to get a toddler to eat a green bean. 😅
 
-![](/assets/images/posts/2025-05-26-hello-world/00-title-600x338.png)
+![]({{ page.header.teaser }})
 
 This site is your one-stop-shop for all things Family Fun Trivia: our family-friendly podcast, our laugh-out-loud YouTube channel, and (eventually) even some cool printable trivia games for when screen time needs a break.
 

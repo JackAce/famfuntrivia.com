@@ -458,5 +458,152 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "season": 1,
+    "episode": 4,
+    "airDate": "2025-08-15",
+    "name": "Cars, Vegetables, The Color Blue, Math, and Star Wars",
+    "title": "🚘 Cars, 🥦 Vegetables, 🟦 The Color Blue, 🧮 Math, and 💫 Star Wars",
+    "youTubeUrl": "https://www.youtube.com/watch?v=f47AZ5oFaZc",
+    "spotifyUrl": "https://open.spotify.com/episode/45EGJZKPB1ID2erY9llTDd?si=bvL9C2WdSeOl06uzassd5Q",
+    "categories":
+    [
+      {
+        "name": "Cars",
+        "emojis": "🚘",
+        "questions":
+        [
+          {
+            "question": "What is the name for the type of car that is powered by BOTH gasoline and electricity?",
+            "answer": "Hybrid"
+          },
+          {
+            "question": "What is the name for the metal covering that you open to expose the ENGINE in a car?",
+            "answer": "The Hood"
+          },
+          {
+            "question": "What do people often wrap around their tires when driving through snow?",
+            "answer": "Tire Chains (Snow Chains)"
+          },
+          {
+            "question": "What is another name for a car's front passenger seat that got it's name back in the stagecoach days?",
+            "answer": "The Shotgun seat"
+          },
+          {
+            "question": "What is the name of the floor pedal used to stop the car?",
+            "answer": "The brake"
+          }
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "emojis": "🥦",
+        "questions":
+        [
+          {
+            "question": "What is the name of the Vegetable drink that uses 8 different types of Vegetables?",
+            "answer": "V8"
+          },
+          {
+            "question": "What is the name of the small round leafy vegetable that sounds like they're from BELGIUM?",
+            "answer": "Brussels Sprouts"
+          },
+          {
+            "question": "What is the name of the brown tuber vegetable used to make French fries?",
+            "answer": "Potatoes"
+          },
+          {
+            "question": "What layered vegetable often makes people CRY when they cut it?",
+            "answer": "The Onion"
+          },
+          {
+            "question": "What is the name of the green pod vegetable served in Japanese Restaurants under the name edamame?",
+            "answer": "Soy Beans"
+          }
+        ]
+      },
+      {
+        "name": "The Color Blue",
+        "emojis": "🟦",
+        "questions":
+        [
+          {
+            "question": "What popular salad dressing is often used with hot wings?",
+            "answer": "Bleu Cheese"
+          },
+          {
+            "question": "What professional Major League baseball team is named after a blue bird and is based in Toronto?",
+            "answer": "The Blue Jays"
+          },
+          {
+            "question": "What computer company was also known as BIG BLUE?",
+            "answer": "IBM"
+          },
+          {
+            "question": "This prize is often awarded at state fairs for the best animal or farm grown food item.",
+            "answer": "The Blue Ribbon"
+          },
+          {
+            "question": "What is the LARGEST animal on Earth?",
+            "answer": "The Blue Whale"
+          }
+        ]
+      },
+      {
+        "name": "Math",
+        "emojis": "🧮",
+        "questions":
+        [
+          {
+            "question": "How many different outcomes can you have if you flip a penny two times?",
+            "answer": "Four"
+          },
+          {
+            "question": "How many sides are there on an Octagon?",
+            "answer": "Eight"
+          },
+          {
+            "question": "What can you multiply any number with to get the same number as the result?",
+            "answer": "One"
+          },
+          {
+            "question": "In the US, March 14th is a day that celebrates what special number?",
+            "answer": "Pi (3.14)"
+          },
+          {
+            "question": "If you drive 30 miles an hour for two hours, how far have you traveled?",
+            "answer": "60 Miles"
+          }
+        ]
+      },
+      {
+        "name": "Star Wars",
+        "emojis": "💫",
+        "questions":
+        [
+          {
+            "question": "Approximately how old is Baby Yoda?",
+            "answer": "50 years old"
+          },
+          {
+            "question": "What cute furry creatures live on the moon Endor?",
+            "answer": "Ewoks"
+          },
+          {
+            "question": "Frank Oz, the puppeteer who voiced Yoda, also voiced what blue Sesame Street character with nearly the same voice?",
+            "answer": "Grover"
+          },
+          {
+            "question": "What color is Yoda's light saber?",
+            "answer": "Green"
+          },
+          {
+            "question": "What is Princess Leia's home planet?",
+            "answer": "Alderaan"
+          }
+        ]
+      }
+    ]
   }
 ]
