@@ -1,6 +1,8 @@
 ---
 title:  Got a Suggestion?
 date:   2025-05-29 00:00:01 -0700
+author_profile: true
+author: Jack Haze
 categories: [meta]
 tags: [suggestions]
 header:

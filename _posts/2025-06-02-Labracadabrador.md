@@ -1,6 +1,8 @@
 ---
 title:  Check out the Family Fun Trivia (unofficial) Store!
 date:   2025-06-02 00:00:01 -0700
+author_profile: true
+author: Jack Haze
 categories: [meta]
 tags: [shop, store, humor]
 header:

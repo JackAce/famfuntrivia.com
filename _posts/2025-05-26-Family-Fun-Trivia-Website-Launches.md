@@ -1,6 +1,8 @@
 ---
 title:  Introducing Family Fun Trivia!
 date:   2025-05-26 00:00:01 -0700
+author_profile: true
+author: Jack Haze
 categories: [meta]
 tags: [youtube, podcast, spotify]
 header:

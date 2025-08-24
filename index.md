@@ -2,6 +2,8 @@
 layout: single
 title: Family Fun Trivia — Latest Posts
 permalink: /
+author_profile: true
+author: Fam Fun Trivia
 header:
   overlay_image: /assets/images/brand/cover-v1-2383x423.png
   overlay_filter: "0.3"   # optional, adds a dark overlay for text readability
