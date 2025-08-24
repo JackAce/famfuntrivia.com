@@ -1,6 +1,8 @@
 ---
 title:  All Episodes in One Place!
 date:   2025-07-25 00:00:01 -0700
+author_profile: true
+author: Jack Haze
 categories: [meta]
 tags: [podcast, youtube, spotify]
 header:

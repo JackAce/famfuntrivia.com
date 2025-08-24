@@ -1,6 +1,8 @@
 ---
 title:  Episode 4 is Out!
 date:   2025-08-15 00:00:01 -0700
+author_profile: true
+author: Jack Haze
 categories: [meta]
 tags: [podcast, youtube, spotify]
 header:

@@ -1,6 +1,8 @@
 ---
 title:  The Family Fun Trivia Podcast is LIVE!
 date:   2025-06-23 00:00:01 -0700
+author_profile: true
+author: Jack Haze
 categories: [meta]
 tags: [podcast, youtube, spotify]
 header:

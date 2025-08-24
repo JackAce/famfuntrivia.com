@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+author: Jack Haze
 header:
   overlay_image: /assets/images/brand/cover-v1-2383x423.png
   overlay_filter: "0.3"   # optional, adds a dark overlay for text readability

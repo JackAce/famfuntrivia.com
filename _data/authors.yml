@@ -1,0 +1,54 @@
+Jack Haze:
+  name   : "Jack Haze"
+  avatar: /assets/images/brand/jack-avatar-v2-128x128.jpg
+  bio    : "Software Engineer"
+  location : "Southern California"
+  links:
+    - label: "links.famfuntrivia.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://links.famfuntrivia.com/"
+    - label: "YouTube"
+      icon: "fab fa-brands fa-youtube"
+      url: "https://patreon.com/@FamFunTrivia"
+    - label: "Spotify"
+      icon: "fab fa-brands fa-spotify"
+      url: "https://open.spotify.com/show/0VhK8a53LuYi2h9er9E48r?si=ZP4PLZojScy7LViYuSBFJg"
+    - label: Apple Podcast
+      icon: "fa-solid fa-podcast"
+      url: https://podcasts.apple.com/us/podcast/family-fun-trivia/id1834272891
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://patreon.com/FamilyFunTrivia"
+    - label: "The JackAce Store"
+      icon: "fa-solid fa-basket-shopping"
+      url: "https://shop.jackace.com/collections/kid-friendly"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JackAce/famfuntrivia.com"
+
+Fam Fun Trivia:
+  name   : "Family Fun Trivia"
+  avatar: /assets/images/brand/fft-logo-v3-128x128.png
+  bio    : "Kid-Friendly Trivia Podcast"
+  links:
+    - label: "links.famfuntrivia.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://links.famfuntrivia.com/"
+    - label: "YouTube"
+      icon: "fab fa-brands fa-youtube"
+      url: "https://patreon.com/@FamFunTrivia"
+    - label: "Spotify"
+      icon: "fab fa-brands fa-spotify"
+      url: "https://open.spotify.com/show/0VhK8a53LuYi2h9er9E48r?si=ZP4PLZojScy7LViYuSBFJg"
+    - label: Apple Podcast
+      icon: "fa-solid fa-podcast"
+      url: https://podcasts.apple.com/us/podcast/family-fun-trivia/id1834272891
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://patreon.com/FamilyFunTrivia"
+    - label: "The JackAce Store"
+      icon: "fa-solid fa-basket-shopping"
+      url: "https://shop.jackace.com/collections/kid-friendly"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JackAce/famfuntrivia.com"
